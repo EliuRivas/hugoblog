@@ -1,7 +1,10 @@
 ---
-hide_body: false
-is_partial: true
+hide_body: true
+is_partial: false
 fields:
+- type: file
+  name: imagen
+  label: Imagen
 - type: datetime
   label: Fecha
   name: fecha
@@ -12,10 +15,6 @@ fields:
   name: titulo
   label: Titulo
   description: Titulo del Articulo
-- type: file
-  name: imagen
-  label: Imagen
-  description: imagen de cabecera
 - type: number
   name: weithg
   label: weithg
