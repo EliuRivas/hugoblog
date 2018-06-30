@@ -20,4 +20,5 @@ fields:
   label: weithg
   description: numero
 pages:
+- content/blog/otro-post.md
 - content/blog/mi-primer-post.md
