@@ -20,4 +20,5 @@ fields:
   label: weithg
   description: numero
 pages:
+- content/blog/nueva-noticia.md
 - content/blog/otro-post.md
