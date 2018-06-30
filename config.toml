@@ -1,4 +1,4 @@
-baseurl = "https://clever-mclean-edc6f1.netlify.com"
+baseurl = "https://clever-mclean-edc6f1.netlify.com/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
