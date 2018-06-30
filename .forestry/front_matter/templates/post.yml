@@ -12,6 +12,9 @@ fields:
   name: title
   label: Title
   description: ''
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
 - type: file
   name: static/img
   label: Image
