@@ -3,22 +3,22 @@ hide_body: false
 is_partial: false
 fields:
 - type: datetime
-  label: Fecha
-  name: fecha
-  description: Fecha de Publicacion
+  label: Date
+  name: date
+  description: ''
   config:
     date_format: DD/MM/YYYY
 - type: text
-  name: titulo
-  label: Titulo
-  description: Titulo del Articulo
+  name: title
+  label: Title
+  description: ''
 - type: file
-  name: imagen
-  label: Imagen
+  name: image
+  label: Image
 - type: number
-  name: weithg
-  label: weithg
-  description: numero
+  name: weigth
+  label: weigth
+  description: ''
 pages:
 - content/blog/nueva-noticia.md
 - content/blog/otro-post.md
