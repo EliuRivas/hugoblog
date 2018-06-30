@@ -1,0 +1,22 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  label: Fecha
+  name: fecha
+  description: Fecha de Publicacion
+  config:
+    date_format: DD/MM/YYYY
+- type: text
+  name: titulo
+  label: Titulo
+  description: Titulo del Articulo
+- type: file
+  name: imagen
+  label: Imagen
+  description: imagen de cabecera
+- type: number
+  name: weithg
+  label: weithg
+  description: numero
