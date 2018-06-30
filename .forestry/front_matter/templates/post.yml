@@ -16,8 +16,8 @@ fields:
   name: image
   label: Image
 - type: number
-  name: weigth
-  label: weigth
+  name: weight
+  label: weight
   description: ''
 pages:
 - content/blog/nueva-noticia.md
