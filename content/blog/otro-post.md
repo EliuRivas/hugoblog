@@ -3,6 +3,7 @@ date = "2018-06-30T18:21:41+00:00"
 fecha = "2018-06-30T04:00:00+00:00"
 image = "/img/FWO_2560x1440.jpg"
 imagen = "/img/about.jpg"
+showonlyimage = true
 "static/img" = "/img/FWO_2560x1440.jpg"
 title = "Otro post"
 titulo = "mi otro post"
