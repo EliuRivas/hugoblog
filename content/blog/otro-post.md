@@ -10,6 +10,8 @@ weight = 1
 weithg = 5
 
 +++
+I am a creative illustrator and graphic designer with more than 10 years of experience.
+
 \+++
 
 date = "2016-11-05T19:41:01+05:30"
