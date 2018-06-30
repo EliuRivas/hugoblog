@@ -13,7 +13,7 @@ fields:
   label: Title
   description: ''
 - type: file
-  name: image
+  name: static/img
   label: Image
 - type: number
   name: weight
