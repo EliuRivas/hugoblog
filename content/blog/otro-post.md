@@ -6,7 +6,7 @@ imagen = "/img/about.jpg"
 "static/img" = "/img/FWO_2560x1440.jpg"
 title = "Otro post"
 titulo = "mi otro post"
-weight = ""
+weight = 1
 weithg = 5
 
 +++

@@ -20,5 +20,5 @@ fields:
   label: weight
   description: ''
 pages:
-- content/blog/nueva-noticia.md
 - content/blog/otro-post.md
+- content/blog/nueva-noticia.md
