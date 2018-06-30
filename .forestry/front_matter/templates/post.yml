@@ -20,3 +20,5 @@ fields:
   name: weithg
   label: weithg
   description: numero
+pages:
+- content/blog/mi-primer-post.md
