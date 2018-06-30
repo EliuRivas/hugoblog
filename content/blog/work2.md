@@ -1,6 +1,6 @@
 +++
 date = "2018-06-30T17:30:01+00:00"
-image = ""
+image = "/uploads/1ew4ert - Imgur.jpg"
 showonlyimage = false
 title = "Nombre del Blog numero 1"
 weight = 1
