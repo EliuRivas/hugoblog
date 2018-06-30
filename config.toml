@@ -18,7 +18,7 @@ twitter = "full profile url in twitter"
 [[params.navlinks]]
 home = true
 name = "Home"
-url = "home/"
+url = "blog/"
 [[params.navlinks]]
 name = "About"
 url = "about/"
